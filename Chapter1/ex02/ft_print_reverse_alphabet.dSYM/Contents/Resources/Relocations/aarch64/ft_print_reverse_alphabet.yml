@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jaedenting/VS Code Projects/Piscine/Chapter1/ex02/ft_print_reverse_alphabet'
+relocations:     []
+...
